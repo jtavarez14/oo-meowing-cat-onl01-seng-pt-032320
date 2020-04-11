@@ -1,7 +1,5 @@
 class Cat 
   attr_accessor :name
+  attr_accessor :"meow!"
 end 
 
-def cat_sound 
-  puts "meow!"
-end 
